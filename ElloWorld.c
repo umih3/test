@@ -9,4 +9,6 @@ int main()
 	int b = 10;
 	
 	int c = a + b;
+	
+	printf("Hello again \n");
 }
