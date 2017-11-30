@@ -11,4 +11,6 @@ int main()
 	int c = a + b;
 	
 	printf("Hello again \n");
+	
+	printf("Hello from user 2 \n");
 }
