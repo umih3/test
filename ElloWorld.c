@@ -15,5 +15,8 @@ int main()
 	printf("Hello again \n");
 	
 	printf("Hello from user 2 \n");
+	
+	
+	int k = 7;
 
 }
